@@ -1,0 +1,54 @@
+ext-fonts (1.0.0-1001) unstable; urgency=medium
+
+  * UPD: Rename package.
+
+ -- z17 Dev <mail@z17.dev>  Sun, 28 Aug 2022 01:12:00 +0300
+
+ext-fonts (1.0.0-1000) unstable; urgency=medium
+
+  * DEL: All fonts (keep MS fonts).
+
+ -- z17 Dev <mail@z17.dev>  Wed, 06 Apr 2022 17:06:00 +0300
+
+ext-fonts (1.0.0-6) unstable; urgency=medium
+
+  * DEL: Remove Fira Code ".woff2" files.
+
+ -- z17 Dev <mail@z17.dev>  Thu, 24 Mar 2022 00:22:00 +0300
+
+ext-fonts (1.0.0-5) unstable; urgency=medium
+
+  * ADD: "pt-sans".
+  * ADD: "pt-serif".
+  * DEL: "noto-music".
+  * DEL: "noto-symbols".
+  * UPD: "local.conf".
+
+ -- z17 Dev <mail@z17.dev>  Tue, 28 Sep 2021 12:00:00 +0300
+
+ext-fonts (1.0.0-4) unstable; urgency=medium
+
+  * UPD: "local.conf".
+
+ -- z17 Dev <mail@z17.dev>  Tue, 28 Sep 2021 01:00:00 +0300
+
+ext-fonts (1.0.0-3) unstable; urgency=medium
+
+  * NEW: "noto-emoji-fonts" (commit:c05b4b47c8250ccd232780cae46d66a8179e77ab).
+  * NEW: "noto-fonts" (commit:fd059782cdd4952a9cab23149f30795e6e5c078c).
+  * UPD: "fira-code-fonts" (v5.2).
+  * UPD: Change paths.
+
+ -- z17 Dev <mail@z17.dev>  Mon, 27 Sep 2021 14:00:00 +0300
+
+ext-fonts (1.0.0-2) unstable; urgency=medium
+
+  * UPD: DEB Package.
+
+ -- z17 Dev <mail@z17.dev>  Thu, 09 Sep 2021 14:00:00 +0300
+
+ext-fonts (1.0.0-1) unstable; urgency=medium
+
+  * Initial Release.
+
+ -- z17 Dev <mail@z17.dev>  Wed, 08 Sep 2021 14:00:00 +0300

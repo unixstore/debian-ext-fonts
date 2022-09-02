@@ -1,0 +1,2 @@
+fonts/microsoft/*.ttf usr/share/fonts/fonts.custom.d/microsoft
+*.conf etc/fonts
